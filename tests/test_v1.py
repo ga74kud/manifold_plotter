@@ -1,8 +1,6 @@
 import manifold_plotter as mp
 import md_pro as md
-import numpy as np
 import matplotlib.pyplot as plt
-
 
 
 mygrid = {"x_grid": 5, "y_grid": 4, "x_min": -10, "x_max": 10, "y_min": -7.5, "y_max": 7.5}
