@@ -14,7 +14,7 @@ pip install manifold-plotter
 # Usage
 
 ```python
-import manifold_plotter as mp
+import manifold_plotter_pkg as mp
 import md_pro as md
 import matplotlib.pyplot as plt
 
